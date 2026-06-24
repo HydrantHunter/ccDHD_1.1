@@ -7,7 +7,7 @@ NOTE: This version is for MC 1.6.4, CC 1.58, and LanteaCraft RC1_37 and is no lo
       
       The latest version is 2.0 and may run fine on the same versions of MC, CC, and LC as 1.1.
       It should also run well on most (if not all) new versions of MC and CCTweaked.
-      It supports SGCraft (if that mod still supports ComputerCraft).
+      It supports Dockter's SGCraft (if that mod still supports ComputerCraft).
       It might still support legacy development versions of LanteaCraft, although I can't recall if I removed that code to slim down the script size.
       
       I keep telling myself I'm going to post the code for 2.0 on github, but I also keep not doing that.
