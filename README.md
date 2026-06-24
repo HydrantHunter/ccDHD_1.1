@@ -8,7 +8,6 @@ NOTE: This version is for MC 1.6.4, CC 1.58, and LanteaCraft RC1_37 and is no lo
       The latest version is 2.0 and represents an extensive re-write that went through several years of development and testing.
       It should run fine on the same versions of MC, CC, and LC as 1.1, but that isn't guaranteed.
       It should also run well on most (if not all) new versions of MC and CCTweaked.
-        Over time CCTweaked has introduced more strict syntax enforcement, so it's possible that 2.0 may not work with the latest versions of CCTWeaked.
       It supports Dockter's SGCraft (if that mod still supports ComputerCraft), however it's not of much use any longer.
         Dockter, over time, added features that essentially made computer dialers (and computers in general) moot.
       It might still support legacy development versions of LanteaCraft, although I can't recall if I removed that code to slim down the script size.
